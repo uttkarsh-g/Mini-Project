@@ -1,0 +1,260 @@
+@media (max-width: 410px) {
+  .navlink {
+    display: none;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links {
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+    padding: 0 20px;
+  }
+  .toggle {
+    justify-content: space-around;
+    flex-direction: column;
+  }
+  .links a {
+    color: rgba(0, 0, 0, 0.571);
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+  }
+  .links a:hover {
+    color: black;
+  }
+  .cta {
+    display: inline-block;
+  }
+  .cta a {
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    width: 12rem;
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  .video_holder video {
+    object-position: calc(100% - 70%);
+  }
+  .headcnt h1:nth-child(1) {
+    font-size: 6vw;
+  }
+  .headcnt h1:nth-last-child(1) {
+    font-size: 8vw;
+  }
+  .headbtmcnt p {
+    font-size: 4.5vw;
+    width: 100%;
+  }
+  .headbtmcnt a {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 55vw;
+    margin-top: 10%;
+  }
+}
+
+@media (min-width: 411px) and (max-width: 576px) {
+  .navlink {
+    display: none;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links {
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+    padding: 0 20px;
+  }
+  .toggle {
+    justify-content: space-around;
+    flex-direction: column;
+  }
+  .links a {
+    color: rgba(0, 0, 0, 0.571);
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+  }
+  .links a:hover {
+    color: black;
+  }
+  .cta {
+    display: inline-block;
+  }
+  .cta a {
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    width: 12rem;
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  .video_holder video {
+    object-position: calc(100% - 70%);
+  }
+  .headcnt h1:nth-child(1) {
+    font-size: 6vw;
+  }
+  .headcnt h1:nth-last-child(1) {
+    font-size: 8vw;
+  }
+  .headbtmcnt p {
+    font-size: 4vw;
+    width: 100%;
+  }
+  .headbtmcnt a {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 11rem;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .navlink {
+    display: none;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+
+  .links {
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+    padding: 0 20px;
+  }
+  .toggle {
+    justify-content: space-around;
+    flex-direction: column;
+  }
+  .links a {
+    color: rgba(0, 0, 0, 0.571);
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+  }
+  .links a:hover {
+    color: black;
+  }
+  .cta {
+    display: inline-block;
+  }
+  .cta a {
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    width: 12rem;
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .video_holder video {
+    object-position: calc(100% - 70%);
+  }
+  .headcnt h1:nth-child(1) {
+    font-size: 6vw;
+  }
+  .headcnt h1:nth-last-child(1) {
+    font-size: 8vw;
+  }
+  .headbtmcnt p {
+    font-size: 20px;
+    width: 100%;
+  }
+  .headbtmcnt a {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 12rem;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  .navlink {
+    display: none;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links {
+    align-items: center;
+    flex-direction: column;
+    height: 70%;
+    padding: 0 20px;
+  }
+  .toggle {
+    justify-content: space-around;
+    flex-direction: column;
+  }
+  .links a {
+    color: rgba(0, 0, 0, 0.571);
+    font-size: 35px;
+    font-weight: 900;
+    padding-top: 20px;
+  }
+  .links a:hover {
+    color: black;
+  }
+  .cta {
+    display: inline-block;
+  }
+  .cta a {
+    border: 1px solid rgb(0, 0, 0);
+    color: black;
+    width: 12rem;
+    font-size: 25px;
+    font-weight: 500;
+  }
+
+  .video_holder video {
+    object-position: calc(100% - 70%);
+  }
+  .headcnt h1:nth-child(1) {
+    font-size: 6vw;
+  }
+  .headcnt h1:nth-last-child(1) {
+    font-size: 6vw;
+  }
+  .headbtmcnt p {
+    font-size: 20px;
+    width: 100%;
+  }
+  .headbtmcnt a {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 12rem;
+    margin-top: 10%;
+  }
+}
+@media (min-width: 993px) and (max-width: 1200px) {
+  .links {
+    gap: 7%;
+  }
+  .links a {
+    font-size: 20px;
+  }
+  .cta a {
+    width: 7rem;
+  }
+
+  .headcnt h1:nth-child(1) {
+    font-size: 6vw;
+  }
+  .headcnt h1:nth-last-child(1) {
+    font-size: 6vw;
+  }
+  .headbtmcnt p {
+    font-size: 25px;
+    width: 60%;
+  }
+  .headbtmcnt a {
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    width: 12rem;
+  }
+}
