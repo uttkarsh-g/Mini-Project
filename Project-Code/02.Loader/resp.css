@@ -1,0 +1,11 @@
+@media (max-width: 410px) {
+  .loader {
+    margin: 0 5px;
+  }
+}
+
+@media (min-width: 411px) and (max-width: 576px) {
+  .loader {
+    margin: 0 10px;
+  }
+}
