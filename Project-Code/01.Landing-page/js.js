@@ -16,7 +16,7 @@ const ham = () => {
     navLinks.classList.toggle("active");
     navToggle.classList.toggle("navtoggle");
     closeIcon.style.display = "none";
-    navLinks.style.display = "none";
+    navLinks.style.display = "";
     menuIcon.style.display = "block";
   });
 };
