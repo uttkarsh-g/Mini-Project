@@ -1,0 +1,144 @@
+@media (max-width: 410px) {
+  .la-links {
+    display: none;
+  }
+  .logo h1 {
+    font-size: 1.8rem;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links a {
+    font-size: 2.5rem;
+  }
+  .card {
+    height: 450px;
+    width: 250px;
+  }
+  .btmhh {
+    font-size: 3.5rem;
+  }
+  #hero {
+    min-height: 100vh;
+  }
+  #heroHead {
+    height: 100px;
+  }
+  #herocard {
+    height: fit-content;
+    flex-direction: column;
+    gap: 20%;
+    margin-top: 50px;
+  }
+}
+
+@media (min-width: 411px) and (max-width: 576px) {
+  .la-links {
+    display: none;
+  }
+  .logo h1 {
+    font-size: 2rem;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links a {
+    font-size: 3.5rem;
+  }
+  .card {
+    height: 450px;
+    width: 250px;
+  }
+  .btmhh {
+    font-size: 3.5rem;
+  }
+  #hero {
+    min-height: 100vh;
+  }
+  #heroHead {
+    height: 100px;
+  }
+  #herocard {
+    height: fit-content;
+    flex-direction: column;
+    gap: 20%;
+    margin-top: 50px;
+  }
+}
+@media (min-width: 577px) and (max-width: 768px) {
+  .la-links {
+    display: none;
+  }
+  .logo h1 {
+    font-size: 2rem;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links a {
+    font-size: 8vw;
+  }
+  .card {
+    height: 450px;
+    width: 250px;
+  }
+  .btmhh {
+    font-size: 5rem;
+  }
+  #hero {
+    min-height: 100vh;
+  }
+  #heroHead {
+    height: 150px;
+  }
+  #herocard {
+    height: fit-content;
+    flex-direction: column;
+    gap: 20%;
+    margin-top: 50px;
+  }
+}
+@media (min-width: 769px) and (max-width: 992px) {
+  .la-links {
+    display: none;
+  }
+  .logo h1 {
+    font-size: 2.5rem;
+  }
+  .icon,
+  .o {
+    display: block;
+  }
+  .links a {
+    font-size: 8vw;
+  }
+  .card {
+    height: 450px;
+    width: 250px;
+  }
+  .btmhh {
+    font-size: 8rem;
+  }
+  #heroHead {
+    height: 25%;
+  }
+  #herocard {
+    height: 75%;
+  }
+}
+@media (min-width: 993px) and (max-width: 1200px) {
+  .la-links {
+    width: 18rem;
+  }
+
+  .card {
+    height: 450px;
+    width: 250px;
+  }
+  .btmhh {
+    font-size: 10rem;
+  }
+}
