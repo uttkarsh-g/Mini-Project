@@ -1,3 +1,5 @@
+#
+
 ---
 
 <h1 style=" Font-size:50px; text-align:center"> Mini Project's  🔥</h1>
@@ -18,6 +20,10 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/9b70311b-b752-4544-8995-b915eb085764" ></img>
+<br>
+
+<p style="font-size:20px ;color:white"> Link -> <a href="https://projectfreeview.netlify.app/" target="_blank" style=" color:white;">𝗙𝗹𝗼𝘄𝗩𝗶𝗲𝘄 𝗟𝗮𝗻𝗱𝗶𝗻𝗴 𝗣𝗮𝗴𝗲</a> </p>
+<br>
 
 <p style="Font-style:italic; font-size:20px;font-weight:200;">I designed and developed this landing page as part of my learning process in web development. The idea was to create something clean and modern, with a focus on making the layout easy to navigate. I wanted to ensure that it looks good on all devices and loads quickly.</p>
 
@@ -37,8 +43,12 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/ea7d1936-3c0b-4cee-830a-fbfadd44775f
+<img src="https://github.com/user-attachments/assets/a14a94f9-3506-41c3-84d2-28836cc61550
 " ></img>
+<br>
+
+<p style="font-size:20px ;color:white"> Link -> <a href="https://cssloadingbar.netlify.app/" target="_blank" style=" color:white;">𝗖𝗦𝗦 𝗟𝗼𝗮𝗱𝗲𝗿</a> </p>
+<br>
 
 <p style="Font-style:italic; font-size:20px;font-weight:200;">I designed and developed this landing page as part of my learning process in web development. The idea was to create something clean and modern, with a focus on making the layout easy to navigate. I wanted to ensure that it looks good on all devices and loads quickly.</p>
 
@@ -59,6 +69,12 @@
 <br>
 
 <img src="https://github.com/user-attachments/assets/3cbf20f1-512d-4044-a5eb-8c0f3be46aca" ></img>
+<br>
+<br>
+
+<p style="font-size:20px ;color:white"> Link -> <a href="https://teampageproject.netlify.app/" target="_blank" style=" color:white;">𝗧𝗲𝗮𝗺 𝗣𝗮𝗴𝗲</a> </p>
+
+<br>
 
 <p style="Font-style:italic; font-size:20px;font-weight:200;">For this project, I created a Team Page using CSS animations and clip-path to add some creative flair. The idea was to showcase team members in a dynamic way while keeping the design clean and engaging.</p>
 
