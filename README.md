@@ -43,8 +43,7 @@
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/8775e3b9-50f8-42b4-8087-8bc21b2f5759
-" ></img>
+<img src="https://github.com/user-attachments/assets/a1e9009b-6b8c-4ca0-a1c8-ea8a64bba317" ></img>
 <br>
 
 <p style="font-size:20px ;color:white"> Link -> <a href="https://cssloadingbar.netlify.app/" target="_blank" style=" color:white;">𝗖𝗦𝗦 𝗟𝗼𝗮𝗱𝗲𝗿</a> </p>
