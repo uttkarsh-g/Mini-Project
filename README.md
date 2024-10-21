@@ -1,8 +1,4 @@
-#
-
----
-
-<h1 style=" Font-size:50px; text-align:center"> Mini Project's  🔥</h1>
+<h1 style="Font-size:50px;" align:center> Mini Project's  🔥</h1>
 
 <br>
 
