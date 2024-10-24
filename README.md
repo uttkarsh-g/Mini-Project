@@ -1,10 +1,9 @@
-<h1 style="Font-size:80px; text-align:center" > Mini Project's  🔥</h1>
+<h1 align="center" > Mini Project's  🔥</h1>
 
 <br>
 
-<h2 style="Font-size:30px; font-weight:700;"> Hello , I'm Uttkarsh Gairola</h2>
-
-<p style="Font-style:italic; font-size:20px;font-weight:200;">I created this GitHub repository to showcase a project I developed while self-learning web development. Through this project, I gained practical knowledge of how web applications are built. The purpose of this repository is not only to document my learning process but also to provide a resource for other learners. You can explore my code, design decisions, and the journey I undertook in this project,</p>
+<h2 > Hello , I'm Uttkarsh Gairola</h2>
+*I created this GitHub repository to showcase a project I developed while self-learning web development. Through this project, I gained practical knowledge of how web applications are built. The purpose of this repository is not only to document my learning process but also to provide a resource for other learners. You can explore my code, design decisions, and the journey I undertook in this project,*
 <br>
 
 <p style="font-size:20px; font-weight:400;">Hope You will like these projects!</p>
