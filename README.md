@@ -3,6 +3,7 @@
 <br>
 
 <h2 > Hello , I'm Uttkarsh Gairola</h2>
+
 *I created this GitHub repository to showcase a project I developed while self-learning web development. Through this project, I gained practical knowledge of how web applications are built. The purpose of this repository is not only to document my learning process but also to provide a resource for other learners. You can explore my code, design decisions, and the journey I undertook in this project,*
 <br>
 
