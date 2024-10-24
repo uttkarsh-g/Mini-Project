@@ -88,30 +88,6 @@ Hope You will like these projects!
 
 <br>
 
-<h1>2. Css Loader</h1>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/a1e9009b-6b8c-4ca0-a1c8-ea8a64bba317" ></img>
-<br>
-
-<p> Link -> <a href="https://cssloadingbar.netlify.app/" target="_blank" >𝗖𝗦𝗦 𝗟𝗼𝗮𝗱𝗲𝗿</a> </p>
-<br>
-
-<p>I designed and developed this landing page as part of my learning process in web development. The idea was to create something clean and modern, with a focus on making the layout easy to navigate. I wanted to ensure that it looks good on all devices and loads quickly.</p>
-
-<p>Here’s what I focused on:
-</p>
-<ul>
-<li>A clean and minimal design</li>
-<li>Smooth, fluid animation</li>
-<li>Lightweight code for fast load times</li>
-</ul>
-<br>
-<p>This project was a fun way to dive deeper into CSS and learn more about how animations work. I'm happy with how it turned out and looking forward to using it in future projects.</p>
-
-<br>
-
 <h1>4.Random Emoji</h1>
 
 <br>
@@ -120,7 +96,7 @@ Hope You will like these projects!
 <br>
 <br>
 
-<p> Link -> <a href="https://projectrandom-emoji.netlify.app/" target="_blank" >𝗧𝗲𝗮𝗺 𝗣𝗮𝗴𝗲</a> </p>
+<p> Link -> <a href="https://projectrandom-emoji.netlify.app/" target="_blank" >Random Emoji</a> </p>
 
 <br>
 
