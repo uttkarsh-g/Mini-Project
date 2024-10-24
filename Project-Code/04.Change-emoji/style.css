@@ -46,6 +46,7 @@ h2 {
   font-size: 30rem;
   pointer-events: none;
   user-select: none;
+  transition: 1s all ease;
 }
 button {
   outline: none;
