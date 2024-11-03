@@ -117,3 +117,31 @@ Hope You will like these projects!
 </p>
 
 <br>
+
+<h1>5.Random Gradient Background</h1>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/11072be1-ea62-4b9f-83f8-6b1138fb1559" ></img>
+<br>
+<br>
+
+<p> Link -> <a href="https://projectrandomgradientgenerator.netlify.app/" target="_blank" >Random Gradient Generator</a> </p>
+
+<br>
+
+<p>For this project, I created a tool that generates a random gradient background with just a click. I used JavaScript and CSS to make it both functional and visually interesting.</p>
+
+<p >Here’s what I focused on:
+</p>
+<ul>
+<li>A random gradient that changes each time you click</li>
+<li>Copy feature to easily grab the generated gradient code for reuse</li>
+<li>Simple, user-friendly interface to keep the focus on the gradient effect</li>
+</ul>
+
+<br>
+
+<p>This project was a fun way to dive into gradient styling and JavaScript logic. I enjoyed experimenting with colors and creating something visually dynamic.</p>
+
+<br>
