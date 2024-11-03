@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap");
+:root {
+  --h: "Nunito", sans-serif;
+  --ps: 0 10px;
+  --p: 0 15px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+  font-family: var(--h);
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(to right, #fdec5f, #ef9985);
+}
+.ms {
+  width: 25rem;
+  height: 15rem;
+  padding: var(--ps);
+  background-color: rgba(255, 255, 255, 0.219);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(20px);
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.219);
+}
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px 0;
+  height: 35%;
+}
+button {
+  width: 6rem;
+  height: 2rem;
+  margin: 0 20px;
+  border-radius: 50px;
+  border: none;
+}
+#cc {
+  font-family: var(--h);
+  padding: var(--p);
+  font-size: 1.2rem;
+  /* margin-top: 5%; */
+}
+.textarea {
+  background-color: rgba(0, 0, 0, 0.212);
+  border-radius: 20px;
+  padding: var(--p);
+  height: 48%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+#one {
+  background-color: #fdec5f;
+  /* mix-blend-mode: difference; */
+  font-weight: 900;
+}
+#two {
+  background-color: #ef9985;
+  /* mix-blend-mode: difference; */
+  font-weight: 900;
+}
+
+#abs {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 0.8rem;
+  height: 1.2rem;
+  width: 3.6rem;
+  background: linear-gradient(to right, #fdec5f, #ef9985);
+}
