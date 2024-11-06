@@ -145,3 +145,33 @@ Hope You will like these projects!
 <p>This project was a fun way to dive into gradient styling and JavaScript logic. I enjoyed experimenting with colors and creating something visually dynamic.</p>
 
 <br>
+
+<br>
+
+<h1>6.Todo Application</h1>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/5a01c6c8-5419-47b2-a8a4-a1810052a4ab" ></img>
+<br>
+<br>
+
+<p> Link -> <a href="https://todo-project-application.netlify.app/" target="_blank" >Todo Application</a> </p>
+
+<br>
+
+<p>I built this To-Do application to help manage tasks and stay organized. It’s a simple, intuitive tool that lets users add, delete, and mark tasks as completed, all in one place.</p>
+
+<p >Main features include:
+</p>
+<ul>
+<li>Add and remove tasks with ease</li>
+<li>A clean and minimal design for a distraction-free experience</li>
+<li>Fully responsive across all devices for convenient use anywhere</li>
+</ul>
+
+<br>
+
+<p>This project helped me work on essential JavaScript concepts and practice building interactive features. It’s practical and fun, and I’m excited about how useful it can be!</p>
+
+<br>
