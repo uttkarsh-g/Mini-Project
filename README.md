@@ -11,7 +11,7 @@ Hope You will like these projects!
 
 <br>
 
-<h1">1. FreeView Landing page</h1
+<h1>1. FreeView Landing page</h1>
 
 <br>
 
