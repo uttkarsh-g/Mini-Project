@@ -175,3 +175,31 @@ Hope You will like these projects!
 <p>This project helped me work on essential JavaScript concepts and practice building interactive features. It’s practical and fun, and I’m excited about how useful it can be!</p>
 
 <br>
+
+<h1>7.Mouse Follower</h1>
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/8843f04a-3de3-4ee9-a26b-edb35d156a91" ></img>
+<br>
+<br>
+
+<p> Link -> <a href="https://projectmf.netlify.app/" target="_blank" >Mouse Follower</a> </p>
+
+<br>
+
+<p>I created a Mouse Follower animation that tracks the cursor movement on desktops and works seamlessly on mobile devices as well. This project was a fun way to explore interactive animations and responsive design.</p>
+
+<p >Main features include:
+</p>
+<ul>
+<li>A dynamic follower that moves smoothly with the cursor</li>
+<li>Touch support for mobile devices, adapting to finger movements</li>
+<li>Fully responsive, ensuring it works across different screen sizes</li>
+</ul>
+
+<br>
+
+<p>This project helped me dive deeper into event handling and responsiveness, making it both functional and visually engaging.</p>
+
+<br>
