@@ -31,7 +31,7 @@ h2 {
 }
 @media (max-width: 576px) {
   h2 {
-    font-size: 3rem;
+    font-size: 12vw;
   }
 }
 @media (min-width: 577px) and (max-width: 905px) {
